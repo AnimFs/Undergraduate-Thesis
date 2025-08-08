@@ -4,4 +4,7 @@
 * MyDesign1_Ansysview2.png --> Design 1 in Ansys
 * MyDesign22.png --> 4-Qubit Chip with Central Bus Coupling (Design 2)
 * Thesis_4Qubit_draft3.ipynb --> Rough Codes for the Simulations
-* UGThesis_Fahim Shahriar Anim.pdf --> Ug Thesis Book
+* UGThesis_Fahim Shahriar Anim.pdf --> Ug Thesis Book <br>
+
+\
+<img width="1085" height="341" alt="MyDesign1_Ansysview2" src="https://github.com/user-attachments/assets/4af92a98-72f5-4af7-b869-950edbf9979c" />
